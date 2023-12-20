@@ -20,6 +20,7 @@ def run_linear_equation_sample():
     print("Then an equation Ax=b has the following solution:")
     print(f"x = {x}.")
 
+
 def main():
     print("Hello!", end='\n\n')
     
